@@ -4,7 +4,7 @@ const verifyResultController = (req, res) => {
 
   function testScore(teamScore) {
     let combinacoes = 0;
-    // Cada uma das variáveis, representa um tipo de ponto possível:
+    // Cada uma das variáveis abaixo, representa um tipo de ponto possível:
     // i = touchdown
     // j = field goal
     // k = extra touchdown de 1 ponto
