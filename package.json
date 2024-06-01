@@ -1,0 +1,18 @@
+{
+  "name": "prova-backend-studiosol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lorenammp/prova-backend-studiosol.git",
+  "author": "lorenammp <lorenammpaula@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2",
+    "sucrase": "^3.35.0"
+  }
+}
